@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'katalog electronic',
-  description: 'kataloggg',
+  description: 'kataloggg apa ituuu',
 }
 
 export default function RootLayout({
